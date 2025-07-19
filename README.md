@@ -26,5 +26,8 @@
 *Ссылки на решение:*
 
 1. [Общая схема взаимодействия сервисов][1]
+2. [Пользовательские сценарии][2]
 
 [1]: https://github.com/Jony2Good/insuarance-managment/blob/main/interaction-schema.md "Схема взаимодействия сервисов"
+
+[2]: https://github.com/Jony2Good/insuarance-managment/blob/main/user-scenario.md "Пользовательские сценарии"
