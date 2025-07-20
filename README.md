@@ -1,5 +1,7 @@
 # Проект: "Личный кабинет Е-ОСАГО"
 
+[![E-Osago](https://github.com/Jony2Good/assets/blob/main/e-osago.jpg "E-Osago")](https://github.com/Jony2Good/assets/blob/main/e-osago.jpg "E-Osago")
+
 **Задача**: подготовить проект личного кабинета для формления электронных полисов ОСАГО.
 
 **В качестве решения предоставить**:
