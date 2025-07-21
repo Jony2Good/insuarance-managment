@@ -1,4 +1,4 @@
-# Проект: "Личный кабинет Е-ОСАГО"
+# Проект: "Разработка личного кабинета Е-ОСАГО с использованием микросервисной архитектуры"
 
 [![E-Osago](https://github.com/Jony2Good/assets/blob/main/e-osago.jpg "E-Osago")](https://github.com/Jony2Good/assets/blob/main/e-osago.jpg "E-Osago")
 
